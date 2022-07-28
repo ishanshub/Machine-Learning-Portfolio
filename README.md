@@ -1,5 +1,5 @@
 # Machine-Learning-Portfolio
-Repository containing portfolio of Machine Learning projects i hve completed for academic, self learning, and hobby purposes.
+Repository containing portfolio of Machine Learning projects i have completed for academic, self learning, and hobby purposes.
 
 # Content
 - ## Machine Learning 
